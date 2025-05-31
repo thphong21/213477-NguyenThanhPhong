@@ -1,2 +1,3 @@
 Name: Nguyen Thanh Phong 
 Interests: Coding, Design
+Skills: Python, JavaScript, GitHub
